@@ -5,3 +5,7 @@
 .opaque {
   opacity: 0.7;
 }
+
+.carousel, .waterslide, .rollercoaster {
+  display: none;
+}
